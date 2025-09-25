@@ -42,6 +42,6 @@ Python (pandas, requests), REST API queries, data integration, variant annotatio
 
 ---
 
-## Learn more
+## The project and my experience in detail at
 
-🔗 [My portfolio](https://harita-bio.github.io/#/projects/variant-evidence-annotation)
+🔗 [My portfolio](http://localhost:5173/#/projects/variant-evidence-annotation)
